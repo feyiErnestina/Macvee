@@ -1,0 +1,25 @@
+body{
+    background-color: brown;
+    /* width: 250px;
+    height: 200px; */
+    
+}
+.country{
+    margin: auto;
+    padding: 0%;
+    display: block;
+    text-align:  center;
+    justify-content: center;
+    background: burlywood;
+    color: white;
+    font-style: italic;
+    border-radius: 30px;
+    align-content: center; 
+    font-size: 15px;
+    font-weight: bold; 
+    font-display:inherit;
+}
+p{
+    color:aqua;
+    font-size: 15px;
+}
